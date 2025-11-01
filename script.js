@@ -122,29 +122,29 @@ const questions = [
       { text: "70 metros", correct: true },
       { text: "80 metros", correct: false }
     ],
-    calculation: "7 x 10m = 70m. (Multiplicador maior)",
+    calculation: "7 x 10m = 70m.",
     level: "difficult"
   },
   {
-    question: "Para uma competição, foram marcadas 6 pistas, e cada pista mede 15 metros. Qual é o comprimento total que todas as pistas somam?",
+    question: "Para uma competição, foram marcadas 5 pistas, e cada pista mede 9 metros. Qual é o comprimento total que todas as pistas somam?",
     answers: [
-      { text: "90 metros", correct: true },
+      { text: "45 metros", correct: true },
       { text: "80 metros", correct: false },
       { text: "60 metros", correct: false },
       { text: "21 metros", correct: false }
     ],
-    calculation: "6 x 15m = 90m. (Números maiores)",
+    calculation: "5 x 9m = 45m.",
     level: "difficult"
   },
   {
-    question: "Um campo de futebol tem 90 metros de comprimento. Se alguém correr esse comprimento 2 vezes (ida e volta), quantos metros terá percorrido?",
+    question: "Um campinho de futebol tem 6 metros de comprimento. Se alguém correr esse comprimento 2 vezes (ida e volta), quantos metros terá percorrido?",
     answers: [
-      { text: "92 metros", correct: false },
-      { text: "180 metros", correct: true },
-      { text: "100 metros", correct: false },
-      { text: "190 metros", correct: false }
+      { text: "9 metros", correct: false },
+      { text: "12 metros", correct: true },
+      { text: "10 metros", correct: false },
+      { text: "19 metros", correct: false }
     ],
-    calculation: "2 x 90m = 180m. (Números grandes)",
+    calculation: "2 x 6m = 12m.",
     level: "difficult"
   },
   {
@@ -155,7 +155,7 @@ const questions = [
       { text: "35 metros", correct: false },
       { text: "45 metros", correct: false }
     ],
-    calculation: "8 x 5m = 40m. (Multiplicador maior)",
+    calculation: "8 x 5m = 40m.",
     level: "difficult"
   },
   {
@@ -166,7 +166,7 @@ const questions = [
       { text: "50 metros", correct: false },
       { text: "30 metros", correct: false }
     ],
-    calculation: "10 x 4m = 40m. (Multiplicador maior)",
+    calculation: "10 x 4m = 40m.",
     level: "difficult"
   },
 
@@ -179,7 +179,7 @@ const questions = [
       { text: "60 centímetros", correct: true },
       { text: "70 centímetros", correct: false }
     ],
-    calculation: "10 x 6cm = 60cm. (Multiplicador maior)",
+    calculation: "10 x 6cm = 60cm.",
     level: "difficult"
   },
   {
@@ -190,7 +190,7 @@ const questions = [
       { text: "14 centímetros", correct: false },
       { text: "50 centímetros", correct: false }
     ],
-    calculation: "9 x 5cm = 45cm. (Multiplicador maior)",
+    calculation: "9 x 5cm = 45cm.",
     level: "difficult"
   },
   {
@@ -201,7 +201,7 @@ const questions = [
       { text: "110 centímetros", correct: false },
       { text: "15 centímetros", correct: false }
     ],
-    calculation: "5 x 20cm = 100cm. (Números maiores)",
+    calculation: "5 x 20cm = 100cm.",
     level: "difficult"
   },
   {
@@ -212,7 +212,7 @@ const questions = [
       { text: "88 centímetros", correct: true },
       { text: "78 centímetros", correct: false }
     ],
-    calculation: "8 x 11cm = 88cm. (Números maiores)",
+    calculation: "8 x 11cm = 88cm.",
     level: "difficult"
   },
   {
@@ -223,7 +223,7 @@ const questions = [
       { text: "88 centímetros", correct: false },
       { text: "108 centímetros", correct: false }
     ],
-    calculation: "7 x 14cm = 98cm. (Números maiores)",
+    calculation: "7 x 14cm = 98cm.",
     level: "difficult"
   },
   // 🟢 Divisão — Metade (dividir por 2)
